@@ -1,5 +1,5 @@
 # Optimization guide
-Welkom bij het hoofdscherm van de Minecraft optimalisatie gids!
+Welcome to the main screen of the Minecraft optimization guide!
 # Pages
 Below this are the pages:
 
