@@ -1,4 +1,4 @@
-# Optimimalisatie gids
+# Optimization guide
 Welkom bij het hoofdscherm van de Minecraft optimalisatie gids!
 # Pages
 Below this are the pages:
