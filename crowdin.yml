@@ -1,0 +1,3 @@
+files:
+  - source: /optimization/English/*.*
+    translation: /optimization/%two_letters_code%/
